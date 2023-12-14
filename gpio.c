@@ -1,10 +1,6 @@
 /* USER CODE BEGIN Header */
 /**
-  ******************************************************************************
-  * @file    gpio.c
-  * @brief   This file provides code for the configuration
-  *          of all used GPIO pins.
-  ******************************************************************************
+
   * @attention
   *
   * Copyright (c) 2023 STMicroelectronics.
